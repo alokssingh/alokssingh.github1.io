@@ -4,8 +4,15 @@ title: #
 locale: en_US
 url: https://alokssingh.github.io
 # Jekyll configuration
-theme: jekyll-theme-cayman
-
+#theme: jekyll-theme-cayman
+theme: jekyll-theme-basically-basic
+plugins: # previously gems
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+feed:
+  path: atom.xml
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
@@ -14,7 +21,7 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
-
+  - jekyll-gis
 kramdown:
   auto_ids: true
   footnote_nr: 1

@@ -32,5 +32,7 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
 
 </table>
 <h2> Visitors on the page - Thank you for visiting! </h2>
+<a href="https://alokssingh.github.io/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Falokssingh.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visit&edge_flat=false"/></a>
+
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Falokssingh.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visit&edge_flat=false"/></a>
-[![Visits Badge](https://badges.pufler.dev/visits/https://alokssingh.github.io/)](https://alokssingh.github.io/)

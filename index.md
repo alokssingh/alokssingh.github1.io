@@ -31,5 +31,3 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
     </tr>
 
 </table>
-<h2> Visitors on the page - Thank you for visiting! </h2>
-![Visits Badge](https://badges.pufler.dev/visits/alokssingh/https://alokssingh.github.io/)

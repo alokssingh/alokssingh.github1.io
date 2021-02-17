@@ -18,6 +18,12 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
 <table class='news-table'>
     <col width="18%">
     <col width="82%">
+ <tr>
+        <td valign="top"><strong>[Jun 2020]</strong></td>
+        <td> Serving as a <a href="https://alvr-workshop.github.io/"> program commite</a> in ALVR2021 (Advances in Language and Vision Research) 2 2<sup>nd</sup> Workshop in conjunction with the NAACL2021
+        </td>
+    </tr>
+<tr>
  
  <tr>
         <td valign="top"><strong>[Jun 2020]</strong></td>

@@ -23,7 +23,7 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
         <td> Serving as a <a href="https://alvr-workshop.github.io/"> program committee member</a> in ALVR2021 (Advances in Language and Vision Research) 2<sup>nd</sup> Workshop in conjunction with the NAACL2021
         </td>
     </tr>
-<tr>
+
  
  <tr>
         <td valign="top"><strong>[Jan 2021]</strong></td>

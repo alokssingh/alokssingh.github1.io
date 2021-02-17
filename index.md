@@ -20,9 +20,15 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
     <col width="82%">
  <tr>
         <td valign="top"><strong>[Jan 2021]</strong></td>
-        <td> Serving as a <a href="https://alvr-workshop.github.io/"> program committee member</a> in ALVR2021 (Advances in Language and Vision Research) 2<sup>nd</sup> Workshop in conjunction with the NAACL2021
+        <td> Serving as a program committee member</a> in <a href="https://alvr-workshop.github.io/">ALVR2021</a> (Advances in Language and Vision Research) 2<sup>nd</sup> Workshop in conjunction with the NAACL2021
         </td>
     </tr>
+
+ <tr>
+        <td valign="top"><strong>[July 2020]</strong></td>
+        <td> Presented a paper [Generation and Evaluation of Hindi Image Captions of Visual Genome](https://www.springer.com/gp/book/9789813340831) in International Conference on Computing and Communication Systems (I3CS 2020), NEHU, Shillong, India.
+        </td>
+</tr>
 
  
  <tr>
@@ -33,7 +39,7 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
 
 <tr>
         <td valign="top"><strong>[Apr 2020]</strong></td>
-        <td>Served as a <a href="https://alvr-workshop.github.io/"> program committee member</a> in ALVR2020 (Advances in Language and Vision Research) Workshop in conjunction with the 2020 Annual Conference of the Association for Computational Linguistics (ACL 2020).
+        <td>Served as a  program committee member in <a href="https://alvr-workshop.github.io/">ALVR2020</a> ALVR2020 (Advances in Language and Vision Research) Workshop in conjunction with the 2020 Annual Conference of the Association for Computational Linguistics (ACL 2020).
         </td>
 </tr>
 

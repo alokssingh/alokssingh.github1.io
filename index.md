@@ -26,7 +26,7 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
 <tr>
  
  <tr>
-        <td valign="top"><strong>[Jun 2020]</strong></td>
+        <td valign="top"><strong>[Jan 2021]</strong></td>
         <td> Presented a VATEX-2020 video captioning challenge system description presentation in Language & Vision with applications to Video Understanding Workshop in conjunction with CVPR 2020. <a href="https://www.youtube.com/watch?v=d-mlPPiZ2Pc">[Online Presentation!]</a> <a href="files/VATEX_CVPR_ppt.pdf">[slides!]</a>
         </td>
     </tr>

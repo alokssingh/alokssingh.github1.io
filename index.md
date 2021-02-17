@@ -19,21 +19,22 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
     <col width="18%">
     <col width="82%">
  <tr>
-        <td valign="top"><strong>[Jun 2020]</strong></td>
+        <td valign="top"><strong>[Jan 2021]</strong></td>
         <td> Serving as a <a href="https://alvr-workshop.github.io/"> program committee member</a> in ALVR2021 (Advances in Language and Vision Research) 2<sup>nd</sup> Workshop in conjunction with the NAACL2021
         </td>
     </tr>
 
  
  <tr>
-        <td valign="top"><strong>[Jan 2021]</strong></td>
+        <td valign="top"><strong>[Jun 2020]</strong></td>
         <td> Presented a VATEX-2020 video captioning challenge system description presentation in Language & Vision with applications to Video Understanding Workshop in conjunction with CVPR 2020. <a href="https://www.youtube.com/watch?v=d-mlPPiZ2Pc">[Online Presentation!]</a> <a href="files/VATEX_CVPR_ppt.pdf">[slides!]</a>
         </td>
-    </tr>
+</tr>
+
 <tr>
         <td valign="top"><strong>[Apr 2020]</strong></td>
         <td>Served as a <a href="https://alvr-workshop.github.io/"> program committee member</a> in ALVR2020 (Advances in Language and Vision Research) Workshop in conjunction with the 2020 Annual Conference of the Association for Computational Linguistics (ACL 2020).
         </td>
-    </tr>
+</tr>
 
 </table>

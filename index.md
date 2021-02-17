@@ -20,7 +20,7 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
     <col width="82%">
  <tr>
         <td valign="top"><strong>[Jun 2020]</strong></td>
-        <td> Serving as a <a href="https://alvr-workshop.github.io/"> program commite</a> in ALVR2021 (Advances in Language and Vision Research) 2<sup>nd</sup> Workshop in conjunction with the NAACL2021
+        <td> Serving as a <a href="https://alvr-workshop.github.io/"> program committee member</a> in ALVR2021 (Advances in Language and Vision Research) 2<sup>nd</sup> Workshop in conjunction with the NAACL2021
         </td>
     </tr>
 <tr>
@@ -32,7 +32,7 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
     </tr>
 <tr>
         <td valign="top"><strong>[Apr 2020]</strong></td>
-        <td>Served as a <a href="https://alvr-workshop.github.io/"> reviewer</a> in ALVR2020 (Advances in Language and Vision Research) Workshop in conjunction with the 2020 Annual Conference of the Association for Computational Linguistics (ACL 2020).
+        <td>Served as a <a href="https://alvr-workshop.github.io/"> program committee member</a> in ALVR2020 (Advances in Language and Vision Research) Workshop in conjunction with the 2020 Annual Conference of the Association for Computational Linguistics (ACL 2020).
         </td>
     </tr>
 

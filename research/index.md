@@ -17,3 +17,7 @@ Building robust system that will able to generate a short description of actions
 ### Other
 * **Shot boundary detection for temporal segmentation of the video**  
 Advised by [Dr Dalton Meitei Thounaojam](https://scholar.google.co.in/citations?user=MoD6g-UAAAAJ&hl=en) 
+
+### Teaching Assitance
+
+[1] Compiler Design: [Flex](https://github.com/alokssingh/alokssingh.github.io/blob/main/files/LAB1.pdf) and [Bison](https://github.com/alokssingh/alokssingh.github.io/blob/main/files/yacc.pdf) 

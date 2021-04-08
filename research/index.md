@@ -20,4 +20,4 @@ Advised by [Dr Dalton Meitei Thounaojam](https://scholar.google.co.in/citations?
 
 ### Teaching Assitance
 
-[1] Compiler Design: [Flex](https://github.com/alokssingh/alokssingh.github.io/blob/main/files/LAB1.pdf) and [Bison](https://github.com/alokssingh/alokssingh.github.io/blob/main/files/yacc.pdf) 
+[1] Compiler Design: [Flex]("files/LAB1.pdf") and [Bison]("files/yacc.pdf") 

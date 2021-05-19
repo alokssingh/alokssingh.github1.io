@@ -34,6 +34,9 @@ owner:
   email: alok.rawat478@gmail.com
   disqus-shortname:
   twitter: singh_ak_
+  <div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/singh_ak_ maxwidth=500 limit=5 %}
+</div>
   facebook:  #username
   google:
     scholar:  https://scholar.google.com/citations?user=K6ecfUwAAAAJ&hl=en

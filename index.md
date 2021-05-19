@@ -45,3 +45,7 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
 </tr>
 
 </table>
+
+  <div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/singh_ak_ maxwidth=500 limit=5 %}
+</div>

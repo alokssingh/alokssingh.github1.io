@@ -12,29 +12,7 @@ I am a PhD student at the [National Institute of Technology silchar](http://http
 
 Prior to starting my PhD, I received my master's degree in Computer Science and Engineering from NIT silchar, India in 2019. During my master's, I invested my valuable time by working on Shot Boundary Detection under the supervison of [Dr Dalton Meitei Thounaojam](http://cs.nits.ac.in/dalton/). 
 
-<div id="about"></div> 	
-	<div class="row">
-		<div class="left_column">
-			<div id="profile">				
-					<img src="./divyansha_files/me.jpeg" alt="divyansha, the creator of the website. " style="border-radius: 50%">	
-			</div>
-
-			<div id="contact_info">
-			<h3> <span class="highlight">Divyansha</span></h3>
-			<p> Computer Science and Engineering <br>
-				National Institute of Technology, Silchar <br> 
-				Silchar, Assam, India <br>  
-				Email: <a href="mailto:divyansha1115@gmail.com">divyansha1115@gmail.com </a><br>  
-			<ul>
-					<li><a href="https://www.linkedin.com/in/divyansha-ms/"><img src="./divyansha_files/icon_linkedin2.png" alt="LinkedIn icon. "></a></li>
-					<li><a href="https://github.com/divyansha1115"><img src="./divyansha_files/icon_github2.png" alt="GitHub icon. "></a></li>
-				
-					<li><a href="https://drive.google.com/file/d/1P3u1509oXxIni0CSU-z5ztbFOuz0VdML/view?usp=sharing"><img src="./divyansha_files/icon_pdf2.png" alt="Curriculum vitae PDF icon"></a></li>
-			</ul>			
-			</div> 
-			<a class="twitter-timeline" data-chrome="transparent nofooter noborders noscrollbar" data-width="450" data-height="900" href="https://twitter.com/divyansha1115?ref_src=twsrc%5Etfw">Tweets by divyansha1115</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-		</div> 
+		
 ----
 
 <h3 align="center">Updates</h3>

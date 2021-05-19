@@ -46,4 +46,3 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
 
 </table>
 
- {% twitter https://twitter.com/singh_ak_ maxwidth=500 limit=5 %}

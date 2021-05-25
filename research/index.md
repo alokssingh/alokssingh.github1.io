@@ -14,7 +14,7 @@ I am interested in enabling machines to learn from multiple modalities of data l
 Building robust system that will able to generate a short description of actions and events of the video.
   
 
-### Other
+### During Masters
 * **Shot boundary detection for temporal segmentation of the video**  
 Advised by [Dr Dalton Meitei Thounaojam](https://scholar.google.co.in/citations?user=MoD6g-UAAAAJ&hl=en) 
 

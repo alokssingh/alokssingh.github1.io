@@ -20,7 +20,7 @@ Advised by [Dr Dalton Meitei Thounaojam](https://scholar.google.co.in/citations?
 
 ### Datasets
 
-[1] Hindi version of MSR-VTT dataset for various video related tasks such Hindi video captioning, Hindi videoQ&A, etc.[Available here](https://github.com/alokssingh/MSR-VTT-captioning)
+[1] Hindi version of MSR-VTT dataset for various video related tasks such Hindi video captioning, Hindi videoQ&A, etc. [[Available here]](https://github.com/alokssingh/MSR-VTT-captioning)
 
 
 ### Teaching Assitance

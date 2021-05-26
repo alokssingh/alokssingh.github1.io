@@ -20,10 +20,15 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
     <col width="18%">
     <col width="82%">
  <tr>
+        <td valign="top"><strong>[March 2021]</strong></td>
+        <td> Presented a tutorial on *Visual Description Generation: Fusion of Vision and Natural Language* in the Workshop Recent Advance in Machine Translation (RAMT-2021) at National Institute of Technology Silchar.
+        </td>
+ </tr>	
+ <tr>
         <td valign="top"><strong>[Jan 2021]</strong></td>
         <td> Serving as a program committee member in <a href="https://alvr-workshop.github.io/">ALVR2021</a> (Advances in Language and Vision Research) 2<sup>nd</sup> Workshop in conjunction with the NAACL2021
         </td>
-    </tr>
+ </tr>
 
  <tr>
         <td valign="top"><strong>[July 2020]</strong></td>

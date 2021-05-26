@@ -15,7 +15,7 @@ comments: false
 1. Chakraborty, S., **Singh, A.** & Thounaojam, D.M. [A novel bifold-stage shot boundary detection algorithm: invariant to motion and illumination](https://doi.org/10.1007/s00371-020-02027-9) Vis Comput (2021). 
 
 **2019**
-1. **Singh, A.**\*, Thounaojam, D. M., & Chakraborty, S. [A novel automatic shot boundary detection algorithm: roubust to illumination and motion effect]( https://doi.org/10.1007/s11760-019-01593-3) *Signal, Image and Video Processing (SIViP) 14, 645–653 (2019).* (SCIE, IF- 1.78) <a href="https://github.com/alokssingh/Temporal-segmentation-Shot-boundary">[Code!]</a> 
+1. **Singh, A.**\*, Thounaojam, D. M., & Chakraborty, S. [A novel automatic shot boundary detection algorithm: roubust to illumination and motion effect]( https://doi.org/10.1007/s11760-019-01593-3) *Signal, Image and Video Processing (SIViP) 14, 645–653 (2019).* (SCIE, IF- 1.78) <a href="https://github.com/alokssingh/Temporal-segmentation-Shot-boundary">[Code!]</a> [Exe Application!](https://drive.google.com/file/d/1rMEBelkQYV5CfqxUi-ytUKV4JU6zBlMv/view?usp=sharing)
 
 
 

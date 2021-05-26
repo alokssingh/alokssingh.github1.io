@@ -21,7 +21,7 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
     <col width="82%">
  <tr>
         <td valign="top"><strong>[March 2021]</strong></td>
-        <td> Presented a tutorial on <b>Visual Description Generation: Fusion of Vision and Natural Language</b> in the Workshop Recent Advance in Machine Translation (RAMT-2021) at National Institute of Technology Silchar.
+        <td> Presented a tutorial on <b>Visual Description Generation: Fusion of Vision and Natural Language</b> in the Workshop [Recent Advance in Machine Translation (RAMT-2021)](http://www.nits.ac.in/NewsUpdates/RAMT-2021.pdf) at [National Institute of Technology Silchar,India](http://www.nits.ac.in/).
         </td>
  </tr>	
  <tr>

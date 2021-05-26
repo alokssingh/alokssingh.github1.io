@@ -32,7 +32,7 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
 
 	<tr>
         <td valign="top"><strong>[July 2020]</strong></td>
-        <td> Presented a paper <a href = "https://www.springer.com/gp/book/9789813340831" >Generation and Evaluation of Hindi Image Captions of Visual Genome</a> in International Conference on Computing and Communication Systems (I3CS 2020), NEHU, Shillong, India.
+        <td> Presented a paper <a href = "https://link.springer.com/chapter/10.1007%2F978-981-33-4084-8_7" >Generation and Evaluation of Hindi Image Captions of Visual Genome</a> in International Conference on Computing and Communication Systems (I3CS 2020), NEHU, Shillong, India.
         </td>
 </tr>
 

@@ -21,16 +21,16 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
     <col width="82%">
  <tr>
         <td valign="top"><strong>[March 2021]</strong></td>
-        <td> Presented a tutorial on <b>Visual Description Generation: Fusion of Vision and Natural Language</b> in the Workshop [Recent Advance in Machine Translation (RAMT-2021)](http://www.nits.ac.in/NewsUpdates/RAMT-2021.pdf) at [National Institute of Technology Silchar,India](http://www.nits.ac.in/).
+        <td> Presented a tutorial on <b>Visual Description Generation: Fusion of Vision and Natural Language</b> in the Workshop <a href = "http://www.nits.ac.in/NewsUpdates/RAMT-2021.pdf" >Recent Advance in Machine Translation (RAMT-2021)</a> at <a href = "http://www.nits.ac.in/" >National Institute of Technology Silchar,India</a>.
         </td>
  </tr>	
  <tr>
         <td valign="top"><strong>[Jan 2021]</strong></td>
-        <td> Serving as a program committee member in <a href="https://alvr-workshop.github.io/">ALVR2021</a> (Advances in Language and Vision Research) 2<sup>nd</sup> Workshop in conjunction with the NAACL2021
+        <td> Serving as a program committee member in <a href="https://alvr-workshop.github.io/">ALVR2021</a> (Advances in Language and Vision Research) 2<sup>nd</sup> Workshop in conjunction with the NAACL2021.
         </td>
  </tr>
 
- <tr>
+	<tr>
         <td valign="top"><strong>[July 2020]</strong></td>
         <td> Presented a paper <a href = "https://www.springer.com/gp/book/9789813340831" >Generation and Evaluation of Hindi Image Captions of Visual Genome</a> in International Conference on Computing and Communication Systems (I3CS 2020), NEHU, Shillong, India.
         </td>

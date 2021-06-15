@@ -52,6 +52,6 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
 <body>
 
 <center>
-<a href="https://clustrmaps.com/site/1bihb" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=042aCdMLp0mIRzPP1whCnF7AnGztsoTUwRwtaB5e7GE" /></a> </center>
+<a href="https://clustrmaps.com/site/1bihb" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=0e1633&w=a&t=tt&d=042aCdMLp0mIRzPP1whCnF7AnGztsoTUwRwtaB5e7GE&co=0b4975&ct=cdd4d9" /></a> </center>
 </body>
 

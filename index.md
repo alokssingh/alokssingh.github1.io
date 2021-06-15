@@ -46,9 +46,9 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
         <td>Served as a  program committee member in <a href="https://alvr-workshop.github.io/">ALVR2020</a> (Advances in Language and Vision Research) Workshop in conjunction with the 2020 Annual Conference of the Association for Computational Linguistics (ACL 2020).
         </td>
 
-<td><div class="github-widget" data-username="alokssingh"></div>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=042aCdMLp0mIRzPP1whCnF7AnGztsoTUwRwtaB5e7GE"></script>
+	</tr>
+<tr> 
+	<td><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=042aCdMLp0mIRzPP1whCnF7AnGztsoTUwRwtaB5e7GE"></script>
 </td>
 	</tr>
-
 </table>

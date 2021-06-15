@@ -48,4 +48,5 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
 </tr>
 
 </table>
+<div class="github-widget" data-username="alokssingh"></div>
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=042aCdMLp0mIRzPP1whCnF7AnGztsoTUwRwtaB5e7GE"></script>

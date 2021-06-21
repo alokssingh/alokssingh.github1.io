@@ -12,7 +12,7 @@ comments: false
 
 
 **2021**
-1. **Singh, A.**\*, Singh, T.D. & Bandyopadhyay, S. *Attention based video captioning framework for Hindi*. **Multimedia Systems (2021)**. [https://doi.org/10.1007/s00530-021-00816-3] (https://doi.org/10.1007/s00530-021-00816-3) (SCI)
+1. **Singh, A.**\*, Singh, T.D. & Bandyopadhyay, S. [*Attention based video captioning framework for Hindi*](https://doi.org/10.1007/s00530-021-00816-3)). **Multimedia Systems (2021)**.  https://doi.org/10.1007/s00530-021-00816-3 (SCI)
 
 2.  Chakraborty, S., **Singh, A.** & Thounaojam, D.M. [A novel bifold-stage shot boundary detection algorithm: invariant to motion and illumination](https://doi.org/10.1007/s00371-020-02027-9) Vis Comput (2021). (SCIE) 
 

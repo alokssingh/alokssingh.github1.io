@@ -22,7 +22,8 @@ Advised by [Dr Dalton Meitei Thounaojam](https://scholar.google.co.in/citations?
 
 [1] Hindi version of MSR-VTT dataset for various video related tasks such Hindi video captioning, Hindi video Q&A, etc. [[Available here!]](https://github.com/alokssingh/MSR-VTT-captioning)
 
-
+### Research Participations – Shared Task/ Evaluation Tracks/ Competitions:
+[1] VATEX Video Captioning Challenge in conjunction with CPVR-2020, Workshop on <a href="https://languageandvision.github.io/ws/index.html">Language & Vision with applications to Video Understanding 2020 </a> [Results](https://competitions.codalab.org/competitions/24360#results)
 ### Teaching Assitance
 
 [1] Compiler Design: <a href="/files/LAB1.pdf">[Flex!]</a> and <a href="/files/yacc.pdf">[Bison!]</a> session 2020-21.

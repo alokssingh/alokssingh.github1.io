@@ -25,7 +25,7 @@ Advised by [Dr Dalton Meitei Thounaojam](https://scholar.google.co.in/citations?
 ### Research Participations – Shared Task/ Evaluation Tracks/ Competitions:
 [1] VATEX Video Captioning Challenge in conjunction with CPVR-2020, Workshop on <a href="https://languageandvision.github.io/ws/index.html">Language & Vision with applications to Video Understanding 2020</a>. [[Results!]](https://competitions.codalab.org/competitions/24360#results)
 
-[2]  <a href="https://videoprocessing.ai/benchmarks/sbd.html"> MSU Shot Boundary Detection Benchmark 2020 challenge </a> organised by <a href="https://videoprocessing.ai/about/"> Lomonosov MSU Graphics & Media Lab.</a> <b>Team name: NITS-CV-Lab-v1.0</b><a href="https://videoprocessing.ai/benchmarks/sbd.html"> [Results!]</a>
+[2]  <a href="https://videoprocessing.ai/benchmarks/sbd.html"> MSU Shot Boundary Detection Benchmark 2020 challenge </a> organised by <a href="https://videoprocessing.ai/about/"> Lomonosov MSU Graphics & Media Lab.</a> <b>Team name: NITS-CV-Lab-v1.0</b><a href="https://videoprocessing.ai/benchmarks/sbd.html"> [Results!]</a> [[Code!]](https://github.com/alokssingh/Temporal-segmentation-Shot-boundary)
 
 ### Teaching Assitance
 

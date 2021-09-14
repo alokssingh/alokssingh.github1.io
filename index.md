@@ -19,6 +19,12 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
 <table class='news-table'>
     <col width="18%">
     <col width="82%">
+<tr>
+        <td valign="top"><strong>[Sep 2021]</strong></td>
+        <td> Ranked first in <a href="https://videoprocessing.ai/benchmarks/sbd.html"> MSU Shot Boundary Detection Benchmark 2020.</a> <b>Team name: NITS-CV-Lab-v1.0</b>.<a href="https://videoprocessing.ai/benchmarks/sbd.html">[Results!]</a></td>
+ </tr>
+	
+	
  <tr>
         <td valign="top"><strong>[March 2021]</strong></td>
         <td> Presented a tutorial on <b>Visual Description Generation: Fusion of Vision and Natural Language</b> in the Workshop <a href = "http://www.nits.ac.in/NewsUpdates/RAMT-2021.pdf" >Recent Advance in Machine Translation (RAMT-2021)</a> at <a href = "http://www.nits.ac.in/" >National Institute of Technology Silchar,India</a>.<a href="https://drive.google.com/file/d/1pICQR1TOajqlKB_empW-r4uiGz5zidyi/view?usp=sharing">[ Online Presentation!]</a></td>

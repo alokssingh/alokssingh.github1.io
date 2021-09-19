@@ -12,7 +12,7 @@ comments: false
 
 
 **2021**
-1. **Singh, A.**\*, Singh, T.D. & Bandyopadhyay, S. [An encoder-decoder based framework for hindi image caption generation](https://doi.org/10.1007/s00530-021-00816-3). Multimed Tools Appl (2021). [https://doi.org/10.1007/s11042-021-11106-5](https://doi.org/10.1007/s00530-021-00816-3) (SCIE, IF- 2.757)
+1. **Singh, A.**\*, Singh, T.D. & Bandyopadhyay, S. [An encoder-decoder based framework for hindi image caption generation](https://doi.org/10.1007/s11042-021-11106-5). Multimed Tools Appl (2021). [https://doi.org/10.1007/s11042-021-11106-5](https://doi.org/10.1007/s11042-021-11106-5) (SCIE, IF- 2.757)
 
 2. **Singh, A.**\*, Singh, T.D. & Bandyopadhyay, S. [Attention based video captioning framework for Hindi](https://doi.org/10.1007/s00530-021-00816-3). Multimedia Systems (2021).  https://doi.org/10.1007/s00530-021-00816-3 (SCI, IF- 1.935)
 

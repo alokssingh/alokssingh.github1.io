@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: #
+title: Alok Singh
 locale: en_IN
 url: https://alokssingh.github.io
 # Jekyll configuration
@@ -37,19 +37,19 @@ owner:
   twitter: _im_singh
   facebook:  #username
   google:
-    google scholar: https://scholar.google.com/citations?user=K6ecfUwAAAAJ&hl=en
+    scholar: https://scholar.google.com/citations?user=K6ecfUwAAAAJ&hl=en
     plus:  #username
     analytics: # UA-57438847-4
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #alokssingh
+  github: alokssingh
   stackoverflow: #username 
   linkedin: alokssingh #username
   researchgate: https://www.researchgate.net/profile/Alok_Singh108
   xing: #username
-  instagram: _alokksingh
+  instagram: #_alokksingh
   lastfm: #username
   tumblr: #username
   pinterest: #username

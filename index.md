@@ -58,6 +58,8 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
 
 <body>
 <center>
-<a href="https://clustrmaps.com/site/1bihb" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=042aCdMLp0mIRzPP1whCnF7AnGztsoTUwRwtaB5e7GE" /></a></center>
+<a href="https://clustrmaps.com/site/1bihb" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=042aCdMLp0mIRzPP1whCnF7AnGztsoTUwRwtaB5e7GE" /></a>
+	<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-2683-0542" href="https://orcid.org/0000-0002-2683-0542" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-2683-0542</a></div>
+	</center>
 </body>
 

@@ -28,7 +28,7 @@ comments: false
 **Conferences**
 
 **2021**
-1. **Singh, A.**\*, Meetei, L.S.,  Singh, T., & Bandyopadhyay, S. [Generation and Evauation of Hindi Image Captioning of Visual Genome](https://doi.org/10.1007/978-981-33-4084-8_7). Proceedings of the International Conference on Computing and Communication Systems. Lecture Notes in Networks and Systems, vol 170. Springer, Singapore. [https://doi.org/10.1007/978-981-33-4084-8_7](https://doi.org/10.1007/978-981-33-4084-8_7)
+1. **Singh, A.**\*, Meetei, L.S.,  Singh, T., & Bandyopadhyay, S. [Generation and Evaluation of Hindi Image Captioning of Visual Genome](https://doi.org/10.1007/978-981-33-4084-8_7). Proceedings of the International Conference on Computing and Communication Systems. Lecture Notes in Networks and Systems, vol 170. Springer, Singapore. [https://doi.org/10.1007/978-981-33-4084-8_7](https://doi.org/10.1007/978-981-33-4084-8_7)
 
 2. Chakraborty, S., Thounaojam, D.M., **Singh, A**., Pal, G., *ALO-SBD: A Hybrid Shot Boundary Detection Technique for video surveillance System*. In Proceedings of *ADCOM 2020* (Accepted Rank- B)
 

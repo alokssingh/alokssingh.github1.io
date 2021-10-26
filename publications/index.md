@@ -32,7 +32,7 @@ comments: false
 
 2. Chakraborty, S., Thounaojam, D.M., **Singh, A**., Pal, G., *ALO-SBD: A Hybrid Shot Boundary Detection Technique for video surveillance System*. In Proceedings of *ADCOM 2020* (Accepted Rank- B)
 
-3. De, P. K., Pankaj, and **Alok Singh**. *[A Study of Propagation of Love Waves in an Anisotropic Porous Layer Under Initial Stresss](10.1007/978-981-15-9817-3_19)*." Recent Trends in *Applied Mathematics: Select Proceedings of AMSE 2019*. Springer Singapore, 2021.
+3. De, P. K., Pankaj, and **Alok Singh**. *[A Study of Propagation of Love Waves in an Anisotropic Porous Layer Under Initial Stresss](https://link.springer.com/chapter/10.1007%2F978-981-15-9817-3_19)*." Recent Trends in *Applied Mathematics: Select Proceedings of AMSE 2019*. Springer Singapore, 2021.
 
 
 

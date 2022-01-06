@@ -21,7 +21,7 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
     <col width="82%">
 <tr>
         <td valign="top"><strong>[Sep 2021]</strong></td>
-        <td> Ranked first in <a href="https://videoprocessing.ai/benchmarks/sbd.html"> MSU Shot Boundary Detection Benchmark 2020 </a> organised by <a href="https://videoprocessing.ai/about/"> Lomonosov MSU Graphics & Media Lab.</a> <b>Team name: NITS-CV-Lab-v1.0</b><a href="https://videoprocessing.ai/benchmarks/sbd.html"> [Results!]</a></td>
+        <td> Ranked first in MSU Shot Boundary Detection Benchmark 2020 organised by <a href="https://videoprocessing.ai/about/"> Lomonosov MSU Graphics & Media Lab.</a> <b>Team name: NITS-CV-Lab-v1.0</b></td>
  </tr>
 	
 	

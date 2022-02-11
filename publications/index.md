@@ -3,13 +3,14 @@ layout: page
 title: Publications 
 tags: [research, publications, alok, singh,nits, graduate]
 modified: 2018-28-11T20:53:07.573882-04:00
-comments: false
+comments: true
 ---
 
 
 **Journals**
 
-
+**2022**
+1. **Singh, A.**\*, Singh, T.D. & Bandyopadhyay, S. V2T: video to text framework using a novel automatic shot boundary detection algorithm. (SCIE, IF- 2.757) (Accepted)
 
 **2021**
 1. **Singh, A.**\*, Singh, T.D. & Bandyopadhyay, S. [An encoder-decoder based framework for hindi image caption generation](https://doi.org/10.1007/s11042-021-11106-5). Multimed Tools Appl (2021). [https://doi.org/10.1007/s11042-021-11106-5](https://doi.org/10.1007/s11042-021-11106-5) (SCIE, IF- 2.757)

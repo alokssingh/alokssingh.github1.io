@@ -35,11 +35,12 @@ owner:
   email: alok.rawat478@gmail.com
   disqus-shortname: 
   #google-scholar: K6ecfUwAAAAJ&hl
-  ORCID: 0000-0002-2683-0542
+  social-network-links:
+     ORCID: 0000-0002-2683-0542
   twitter: _im_singh
   #facebook:
   google:
-    google-scholar: K6ecfUwAAAAJ&hl
+    #google-scholar: K6ecfUwAAAAJ&hl
     #plus:  #username
     #analytics: # UA-57438847-4
     #verify:

@@ -34,11 +34,11 @@ owner:
   bio: "Graduate student<br/>National Institute of Technology Silchar, India"
   email: alok.rawat478@gmail.com
   disqus-shortname: 
-  google-scholar: K6ecfUwAAAAJ&hl
+  #google-scholar: K6ecfUwAAAAJ&hl
   twitter: _im_singh
   #facebook:
-  #google:
-   # google_scholar: K6ecfUwAAAAJ&hl
+  google:
+    google-scholar: K6ecfUwAAAAJ&hl
     #plus:  #username
     #analytics: # UA-57438847-4
     #verify:
@@ -63,17 +63,6 @@ owner:
   flickr: #username
   codepen: #username
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]

@@ -27,14 +27,14 @@ kramdown:
 # Site owner
 owner:
   name: Alok Singh
-  avatar:  new_pic.png #IMG-6716.jpg #try image instead of avatar, try cmlh pic
+  avatar:  new_pic.png
   position: Graduate Student
   school: National Institute of Technology Silchar
   place: Silchar, Assam, India.
   bio: "Graduate student<br/>National Institute of Technology Silchar, India"
   email: alok.rawat478@gmail.com
   disqus-shortname: 
-  google_scholar: K6ecfUwAAAAJ&hl
+  google-scholar: K6ecfUwAAAAJ&hl
   twitter: _im_singh
   #facebook:
   #google:

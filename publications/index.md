@@ -9,26 +9,22 @@ comments: true
 
 **Journals**
 
-**2022**
+
 1. **Singh, A.**\*, Singh, T.D. & Bandyopadhyay, S. **[V2T: video to text framework using a novel automatic shot boundary detection algorithm](https://doi.org/10.1007/s11042-022-12343-y)**. (SCIE, IF- 2.757) (Accepted)
 
-**2021**
-1. **Singh, A.**\*, Singh, T.D. & Bandyopadhyay, S. **[An encoder-decoder based framework for hindi image caption generation](https://doi.org/10.1007/s11042-021-11106-5)**. Multimed Tools Appl (2021). [https://doi.org/10.1007/s11042-021-11106-5](https://doi.org/10.1007/s11042-021-11106-5) (SCIE, IF- 2.757)
+2. **Singh, A.**\*, Singh, T.D. & Bandyopadhyay, S. **[An encoder-decoder based framework for hindi image caption generation](https://doi.org/10.1007/s11042-021-11106-5)**. Multimed Tools Appl (2021). [https://doi.org/10.1007/s11042-021-11106-5](https://doi.org/10.1007/s11042-021-11106-5) (SCIE, IF- 2.757)
 
-2. **Singh, A.**\*, Singh, T.D. & Bandyopadhyay, S. **[Attention based video captioning framework for Hindi](https://doi.org/10.1007/s00530-021-00816-3)**. Multimedia Systems (2021).  https://doi.org/10.1007/s00530-021-00816-3 (SCI, IF- 1.935)
+3. **Singh, A.**\*, Singh, T.D. & Bandyopadhyay, S. **[Attention based video captioning framework for Hindi](https://doi.org/10.1007/s00530-021-00816-3)**. Multimedia Systems (2021).  https://doi.org/10.1007/s00530-021-00816-3 (SCI, IF- 1.935)
 
-3.  Chakraborty, S., **Singh, A.** & Thounaojam, D.M. **[A novel bifold-stage shot boundary detection algorithm: invariant to motion and illumination](https://doi.org/10.1007/s00371-020-02027-9)** Vis Comput (2021). (SCIE, IF- 2.601) 
+4.  Chakraborty, S., **Singh, A.** & Thounaojam, D.M. **[A novel bifold-stage shot boundary detection algorithm: invariant to motion and illumination](https://doi.org/10.1007/s00371-020-02027-9)** Vis Comput (2021). (SCIE, IF- 2.601) 
  
-
-**2019**
-1. **Singh, A.**\*, Thounaojam, D. M., & Chakraborty, S. **[A novel automatic shot boundary detection algorithm: roubust to illumination and motion effect]( https://doi.org/10.1007/s11760-019-01593-3)** Signal, Image and Video Processing (SIViP) 14, 645–653 (2019). (SCIE, IF- 2.157) <a href="https://github.com/alokssingh/Temporal-segmentation-Shot-boundary">[Code!]</a> [[Exe Application!]](https://drive.google.com/file/d/1rMEBelkQYV5CfqxUi-ytUKV4JU6zBlMv/view?usp=sharing)
+5. **Singh, A.**\*, Thounaojam, D. M., & Chakraborty, S. **[A novel automatic shot boundary detection algorithm: roubust to illumination and motion effect]( https://doi.org/10.1007/s11760-019-01593-3)** Signal, Image and Video Processing (SIViP) 14, 645–653 (2019). (SCIE, IF- 2.157) <a href="https://github.com/alokssingh/Temporal-segmentation-Shot-boundary">[Code!]</a> [[Exe Application!]](https://drive.google.com/file/d/1rMEBelkQYV5CfqxUi-ytUKV4JU6zBlMv/view?usp=sharing)
 
 
 
 
 **Conferences**
 
-**2021**
 1. **Singh, A.**\*, Meetei, L. S., Singh, S.M., Singh, T.D., & Bandyopadhyay, S. **An efficient keyframes selection based framework for video captioning****. In Proceedings of the International Conference on Natural Language Processing ICON-2021 **(Accepted)**  
 
 2. Meetei, L. S., Singh, S.M.,  **Singh, A**., Singh, T.D., & Bandyopadhyay, S. **An Experiment on Speech-to-Text Translation Systems for Manipuri to English on Low Resource Setting**. In Proceedings of the International Conference on Natural Language Processing ICON-2021 **(Accepted)**

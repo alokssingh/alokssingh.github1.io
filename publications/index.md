@@ -10,7 +10,7 @@ comments: true
 **Journals**
 
 
-1. **Singh, A.**\*, Singh, T.D. & Bandyopadhyay, S. **[V2T: video to text framework using a novel automatic shot boundary detection algorithm](https://doi.org/10.1007/s11042-022-12343-y)** Multimed Tools Appl (2022). (SCIE, IF- 2.757) (Accepted)
+1. **Singh, A.**\*, Singh, T.D. & Bandyopadhyay, S. **[V2T: video to text framework using a novel automatic shot boundary detection algorithm](https://doi.org/10.1007/s11042-022-12343-y)** Multimed Tools Appl (2022). (SCIE, IF- 2.757) [pdf](https://rdcu.be/cIt2T)
 
 2. **Singh, A.**\*, Singh, T.D. & Bandyopadhyay, S. **[An encoder-decoder based framework for hindi image caption generation](https://doi.org/10.1007/s11042-021-11106-5)**. Multimed Tools Appl (2021). [https://doi.org/10.1007/s11042-021-11106-5](https://doi.org/10.1007/s11042-021-11106-5) (SCIE, IF- 2.757)
 

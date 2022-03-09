@@ -32,3 +32,5 @@ Advised by [Dr Dalton Meitei Thounaojam](https://scholar.google.co.in/citations?
 [1] Compiler Design: <a href="/files/LAB1.pdf">[Flex!]</a> and <a href="/files/yacc.pdf">[Bison!]</a> session 2020-21.
 
 [2] Introduction to Programming - C session 2020-21.
+
+[3] Tutorial of Natural Language Processing 2021-22 [[Notes!]](https://github.com/alokssingh/CS-332-NLP-Tutorials-Notes)

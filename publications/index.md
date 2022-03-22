@@ -25,7 +25,7 @@ comments: true
 
 **Conferences**
 
-1. **Singh, A.**\*, Meetei, L. S., Singh, S.M., Singh, T.D., & Bandyopadhyay, S. **An efficient keyframes selection based framework for video captioning**. In Proceedings of the International Conference on Natural Language Processing ICON-2021 **(Accepted)**  
+1. **Singh, A.**, Meetei, L. S., Singh, S.M., Singh, T.D., & Bandyopadhyay, S. **An efficient keyframes selection based framework for video captioning**. In Proceedings of the International Conference on Natural Language Processing ICON-2021 **(Accepted)**  
 
 2. Meetei, L. S., Singh, S.M.,  **Singh, A**., Singh, T.D., & Bandyopadhyay, S. **An Experiment on Speech-to-Text Translation Systems for Manipuri to English on Low Resource Setting**. In Proceedings of the International Conference on Natural Language Processing ICON-2021 **(Accepted)**
 

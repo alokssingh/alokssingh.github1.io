@@ -46,8 +46,6 @@ comments: true
     
 **Preprints**
 
-**2020**
-
 1. **Singh, A.**\*, Singh, T., & Bandyopadhyay, S. **[A Comprehensive Review on Recent Methods and Challenges of Video Description](https://www.researchgate.net/publication/346511130_A_Comprehensive_Review_on_Recent_Methods_and_Challenges_of_Video_Description)** *arXiv preprint arXiv:2011.14752.*   
 
 2. **Singh, A.**\*, Singh, T., & Bandyopadhyay, S. **[NITS-VC System for VATEX Video Captioning Challenge 2020](https://www.researchgate.net/publication/342026509_NITS-VC_System_for_VATEX_Video_Captioning_Challenge_2020)** *arXiv preprint arXiv:2006.04058.*  

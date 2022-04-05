@@ -25,7 +25,7 @@ comments: true
 
 **Conferences**
 
-1. Chakraborty, S., Thounaojam, D.M., **Singh, A**., Pal, G., **[ALO-SBD: A Hybrid Shot Boundary Detection Technique for video surveillance System](https://doi.org/10.1007/978-981-19-0019-8_51)**. In Proceedings of *ADCOM 2020* 
+1. Chakraborty, S., Thounaojam, D.M., **Singh, A**., Pal, G., **[ALO-SBD: A Hybrid Shot Boundary Detection Technique for video surveillance System](https://doi.org/10.1007/978-981-19-0019-8_51)**. Book chapter in **Edge Analytics** (2022). 
 
 2.  **Singh, A.**, Meetei, L. S., Singh, S.M., Singh, T.D., & Bandyopadhyay, S. **An efficient keyframes selection based framework for video captioning**. In Proceedings of the International Conference on Natural Language Processing ICON-2021 **(Accepted)**  
 

@@ -21,7 +21,7 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
     <col width="82%">
 
 	<tr>
-        <td valign="top"><strong>[April 2022]</strong></td>
+        <td valign="top"><strong>[Apr 2022]</strong></td>
         <td> Thesis submitted on "Visual Description Generation: Bridging a gap between vision and natural language".</td>
  </tr>
 	<tr>

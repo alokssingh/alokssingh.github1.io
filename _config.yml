@@ -14,9 +14,9 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-gis
-#plugins:
-#  - jekyll-gist
-plugins: ['jekyll-twitter-plugin']
+plugins:
+  - jekyll-gist
+#plugins: ['jekyll-twitter-plugin']
 kramdown:
   auto_ids: true
   footnote_nr: 1

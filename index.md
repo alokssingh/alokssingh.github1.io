@@ -19,7 +19,12 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
 <table class='news-table'>
     <col width="18%">
     <col width="82%">
-<tr>
+
+	<tr>
+        <td valign="top"><strong>[April 2022]</strong></td>
+        <td> Thesis submitted on "Visual Description Generation: Bridging a gap between vision and natural language".</td>
+ </tr>
+	<tr>
         <td valign="top"><strong>[Sep 2021]</strong></td>
         <td> Ranked first in MSU Shot Boundary Detection Benchmark 2020 organised by <a href="https://videoprocessing.ai/about/"> Lomonosov MSU Graphics & Media Lab.</a> <b>Team name: NITS-CV-Lab-v1.0</b></td>
  </tr>

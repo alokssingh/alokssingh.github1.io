@@ -8,9 +8,12 @@ comments: false
 
 Hi!
 
-I am a PhD student at the [National Institute of Technology silchar](http://http://www.nits.ac.in/) Assam, India. My research interests lie in the areas of multimodal machine learning, automatic video captioning, shot boundary detection and natural language processing. I am fortunate to be advised by [ Dr. Thoudam Doren Singh](http://cs.nits.ac.in/doren/) and [Prof. Sivaji Bandyopadhyay](http://www.jaduniv.edu.in/profile.php?uid=2).
+I recived my PhD from [National Institute of Technology silchar](http://http://www.nits.ac.in/) Assam, India. My research interests lie in the areas of multimodal machine learning, automatic video captioning, shot boundary detection and natural language processing. I am fortunate to be advised by [ Dr. Thoudam Doren Singh](http://cs.nits.ac.in/doren/) and [Prof. Sivaji Bandyopadhyay](http://www.jaduniv.edu.in/profile.php?uid=2).
+
+In the upcoming month I will be joining [Sustainable Finance Group](https://www.smithschool.ox.ac.uk/) at [University of Oxford](https://www.ox.ac.uk/) as a Research Associate in Machine Learning.
 
 Prior to starting my PhD, I received my master's degree in Computer Science and Engineering from NIT silchar, India in 2019. During my master's, I invested my valuable time by working on Shot Boundary Detection under the supervison of [Dr Dalton Meitei Thounaojam](http://cs.nits.ac.in/dalton/). 
+
 
 		
 ----
@@ -19,7 +22,10 @@ Prior to starting my PhD, I received my master's degree in Computer Science and 
 <table class='news-table'>
     <col width="18%">
     <col width="82%">
-
+	<tr>
+        <td valign="top"><strong>[Aug 2022]</strong></td>
+        <td> Defended my PhD Thesis titled "Visual Description Generation: Bridging a gap between vision and natural language".</td>
+ </tr>
 	<tr>
         <td valign="top"><strong>[Apr 2022]</strong></td>
         <td> Thesis submitted on "Visual Description Generation: Bridging a gap between vision and natural language".</td>

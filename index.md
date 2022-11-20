@@ -8,9 +8,9 @@ comments: false
 
 Hi!
 
-I recived my PhD from [National Institute of Technology silchar](http://http://www.nits.ac.in/) Assam, India. My research interests lie in the areas of multimodal machine learning, automatic video captioning, shot boundary detection and natural language processing. I am fortunate to be advised by [ Dr. Thoudam Doren Singh](http://cs.nits.ac.in/doren/) and [Prof. Sivaji Bandyopadhyay](http://www.jaduniv.edu.in/profile.php?uid=2).
+Currently, I am a Research Associate in Machine Learning [Sustainable Finance Group](https://www.smithschool.ox.ac.uk/research/machine-learning-data-science) at [University of Oxford](https://www.ox.ac.uk/).
 
-In the upcoming month I will be joining [Sustainable Finance Group](https://www.smithschool.ox.ac.uk/research/machine-learning-data-science) at [University of Oxford](https://www.ox.ac.uk/) as a Research Associate in Machine Learning.
+I recived my PhD from [National Institute of Technology silchar](http://http://www.nits.ac.in/) Assam, India. My research interests lie in the areas of multimodal machine learning, automatic video captioning, shot boundary detection and natural language processing. I am fortunate to be advised by [ Dr. Thoudam Doren Singh](http://cs.nits.ac.in/doren/) and [Prof. Sivaji Bandyopadhyay](http://www.jaduniv.edu.in/profile.php?uid=2).
 
 Prior to starting my PhD, I received my master's degree in Computer Science and Engineering from NIT silchar, India in 2019. During my master's, I invested my valuable time by working on Shot Boundary Detection under the supervison of [Dr Dalton Meitei Thounaojam](http://cs.nits.ac.in/dalton/). 
 

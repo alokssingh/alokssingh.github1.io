@@ -15,7 +15,7 @@ I recived my PhD from [National Institute of Technology silchar](http://http://w
 Prior to starting my PhD, I received my master's degree in Computer Science and Engineering from NIT silchar, India in 2019. During my master's, I invested my valuable time by working on Shot Boundary Detection under the supervison of [Dr Dalton Meitei Thounaojam](http://cs.nits.ac.in/dalton/). 
 
 
-		
+		 
 ----
 
 <h3 align="center">Updates</h3>

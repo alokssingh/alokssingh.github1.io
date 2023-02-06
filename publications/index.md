@@ -25,24 +25,14 @@ comments: true
 
 **Conferences**
 
-1. Chakraborty, S., Thounaojam, D.M., **Singh, A**., Pal, G., **[ALO-SBD: A Hybrid Shot Boundary Detection Technique for video surveillance System](https://doi.org/10.1007/978-981-19-0019-8_51)**. Book chapter in **Edge Analytics** (2022). 
-
-2.  **Singh, A.**, Meetei, L. S., Singh, S.M., Singh, T.D., & Bandyopadhyay, S. **An efficient keyframes selection based framework for video captioning**. In Proceedings of the International Conference on Natural Language Processing ICON-2021 **(Accepted)**  
-
-3. Meetei, L. S., Rahul, L.,  **Singh, A**., Singh, Singh, S.M., T.D., & Bandyopadhyay, S. **An Experiment on Speech-to-Text Translation Systems for Manipuri to English on Low Resource Setting**. In Proceedings of the International Conference on Natural Language Processing ICON-2021 **(Accepted)**
-
-4. Singh, S.M., Meetei, L. S., **Singh, A**., Singh, T.D., & Bandyopadhyay, S. **On the Transferability of Massively Multilingual Pretrained Models in the Pretext of the Indo-Aryan and Tibeto-Burman Languages**. In Proceedings of the International Conference on Natural Language Processing ICON-2021 **(Accepted)**
-
+1. **Singh, A.**, Meetei, L. S., Singh, S.M., Singh, T.D., & Bandyopadhyay, S. **[An efficient keyframes selection based framework for video captioning](https://aclanthology.org/2021.icon-main.29/)**. In Proceedings of the International Conference on Natural Language Processing ICON-2022
+2. Meetei, L. S., Rahul, L.,  **Singh, A**., Singh, Singh, S.M., T.D., & Bandyopadhyay, S. **[An Experiment on Speech-to-Text Translation Systems for Manipuri to English on Low Resource Setting](https://aclanthology.org/2021.icon-main.8/)**. In Proceedings of the International Conference on Natural Language Processing ICON-2021
+3. Singh, S.M., Meetei, L. S., **Singh, A**., Singh, T.D., & Bandyopadhyay, S. **[On the Transferability of Massively Multilingual Pretrained Models in the Pretext of the Indo-Aryan and Tibeto-Burman Languages](https://aclanthology.org/2021.icon-main.9/)**. In Proceedings of the International Conference on Natural Language Processing ICON-2021
+4. Chakraborty, S., Thounaojam, D.M., **Singh, A**., Pal, G., **[ALO-SBD: A Hybrid Shot Boundary Detection Technique for video surveillance System](https://doi.org/10.1007/978-981-19-0019-8_51)**. Book chapter in **Edge Analytics** (2022).
 5. **Singh, A.**, Meetei, L.S.,  Singh, T., & Bandyopadhyay, S. **[Generation and Evaluation of Hindi Image Captioning of Visual Genome](https://doi.org/10.1007/978-981-33-4084-8_7)**. Proceedings of the International Conference on Computing and Communication Systems. Lecture Notes in Networks and Systems, vol 170. Springer, Singapore. [https://doi.org/10.1007/978-981-33-4084-8_7](https://doi.org/10.1007/978-981-33-4084-8_7)
-
 6. De, P. K., Pankaj, and **Alok Singh**. **[A Study of Propagation of Love Waves in an Anisotropic Porous Layer Under Initial Stresss](https://link.springer.com/chapter/10.1007%2F978-981-15-9817-3_19)**." Recent Trends in *Applied Mathematics: Select Proceedings of AMSE 2019*. Springer Singapore, 2021.
 
-
-
-
-
-    
-    
+   
     
 **Preprints**
 

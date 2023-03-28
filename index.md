@@ -9,7 +9,7 @@ comments: false
 
 Hi!
 
-Currently, I am working with [Sustainable Finance Group](https://www.smithschool.ox.ac.uk/research/machine-learning-data-science) at the [University of Oxford](https://www.ox.ac.uk/) as a Research Associate in Machine Learning.
+Currently, I am working with [Sustainable Finance Group](https://www.cgfi.ac.uk/2023/03/alok-singh/) at the [University of Oxford](https://www.ox.ac.uk/) as a Research Associate in Machine Learning.
 
 I received my PhD from [National Institute of Technology silchar](http://http://www.nits.ac.in/) Assam, India. My research interests lie in the areas of multimodal machine learning, automatic video captioning, shot boundary detection and natural language processing. I am fortunate to be advised by [ Dr. Thoudam Doren Singh](http://cs.nits.ac.in/doren/) and [Prof. Sivaji Bandyopadhyay](http://www.jaduniv.edu.in/profile.php?uid=2).
 

@@ -23,6 +23,10 @@ Before starting my PhD, I received my master's degree in Computer Science and En
     <col width="18%">
     <col width="82%">
 	<tr>
+        <td valign="top"><strong>[Nov 2022]</strong></td>
+        <td> Joined Oxford [Sustainable Finance Group](https://www.cgfi.ac.uk/2023/03/alok-singh/) at the [University of Oxford](https://www.ox.ac.uk/) as a Research Associate in Machine Learning.</td>
+ </tr>
+	<tr>
         <td valign="top"><strong>[Aug 2022]</strong></td>
         <td> Defended my PhD Thesis titled "Visual Description Generation: Bridging a gap between vision and natural language".</td>
  </tr>

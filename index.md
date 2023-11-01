@@ -24,8 +24,9 @@ Before starting my PhD, I received my master's degree in Computer Science and En
     <col width="82%">
 	<tr>
         <td valign="top"><strong>[Nov 2022]</strong></td>
-        <td> Joined Oxford [Sustainable Finance Group](https://www.smithschool.ox.ac.uk/person/alok-singh) at the [University of Oxford](https://www.ox.ac.uk/) as a Research Associate in Machine Learning.</td>
+        <td> Joined Oxford <a href = "https://www.smithschool.ox.ac.uk/person/alok-singh"> Sustainable Finance Group</a> at the <a href = "https://www.ox.ac.uk/"> University of Oxford</a> as a Research Associate in Machine Learning.</td>
  </tr>
+	
 	<tr>
         <td valign="top"><strong>[Aug 2022]</strong></td>
         <td> Defended my PhD Thesis titled "Visual Description Generation: Bridging a gap between vision and natural language".</td>
